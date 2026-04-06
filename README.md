@@ -15,6 +15,7 @@ Here are some of feature projects that I have been work on:
 - **[Prompting Hub](https://github.com/magaeu/prompting-hub)**: Collection of prompt to use with AI.
 - **[Playwright Practice](https://github.com/magaeu/playwright-practice)**: Playwright practice covering important aspects of automation.
 - **[Test multiple projects](https://github.com/magaeu/demo-test-multiple-projects)**: Demo project to setup different types of projects in the same repository.
+- **[API Practice with Java](https://github.com/magaeu/the-one-where-the-apis-get-judged-java-edition)**: API practice covering important aspect of API testing and use best practices.
 - **[Selenium Practice](https://github.com/magaeu/selenium-java)**: Selenium practice with java covering important aspects of automation.
 
 ## Core Skills
