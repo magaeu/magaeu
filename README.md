@@ -6,6 +6,7 @@ I'm a curious and passionated Software QA Engineer.
 
 [![Projects](https://img.shields.io/badge/1.%20Projects-yellow?style=flat)](#-projects)
 [![Core Skills](https://img.shields.io/badge/2.%20Core%20skills-blue?style=flat)](#-core-skills)
+![CodeWars](https://www.codewars.com/users/marpoliv/badges/micro)
 
 
 ## Projects
@@ -27,5 +28,6 @@ Here are some of feature projects that I have been work on:
 - Programming languages: ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=java,typescript,javascript,scala,python,csharp)
 - Certifications: Advanced Certificate in Test Automation (MoT-ACTA)
 - Tools: ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=git,github,mongodb,postgresql,mysql,redis,docker,nginx,docker,aws,azure,jenkins,githubactions,gitlab,linux,bash,graphql)
+- Prompting for Testers
 
 ---
