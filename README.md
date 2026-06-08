@@ -13,6 +13,7 @@ I'm a curious and passionated Software QA Engineer.
 
 Here are some of feature projects that I have been work on:
 
+- **[AI Agent Skills](https://github.com/magaeu/the-one-where-ai-agent-skills-meets-playwright)**: Use agent skills to generate tests and keep readme project up-to-date.
 - **[Prompting Hub](https://github.com/magaeu/prompting-hub)**: Collection of prompt to use with AI.
 - **[Playwright Practice](https://github.com/magaeu/playwright-practice)**: Playwright practice covering important aspects of automation.
 - **[Test multiple projects](https://github.com/magaeu/demo-test-multiple-projects)**: Demo project to setup different types of projects in the same repository.
