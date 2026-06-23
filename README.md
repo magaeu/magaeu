@@ -13,6 +13,7 @@ I'm a curious and passionated Software QA Engineer.
 
 Here are some of feature projects that I have been work on:
 
+- **[K6 with Typescript](https://github.com/magaeu/the-modular-performance-order)**: Performance tests with modular aspects focus on API checks.
 - **[AI Agent Skills](https://github.com/magaeu/the-one-where-ai-agent-skills-meets-playwright)**: Use agent skills to generate tests and keep readme project up-to-date.
 - **[Prompting Hub](https://github.com/magaeu/prompting-hub)**: Collection of prompt to use with AI.
 - **[Playwright Practice](https://github.com/magaeu/playwright-practice)**: Playwright practice covering important aspects of automation.
@@ -23,12 +24,14 @@ Here are some of feature projects that I have been work on:
 
 ## Core Skills
 
+- **Testing Approaches** - Manual · Functional · API · UI · Mobile · Performance · Security · BDD
+- **Automation & Frameworks** - Playwright · Selenium · RestAssured · MaestroDev · Robot
+- **Performance Testing** - K6 · Gatling · Jmeter
 - Testing frameworks: Playwright · Selenium · RestAssured · MaestroDev - Robot
-- Performance Testing Frameworks: Gatling · JMeter
-- Testing:  Manual · Functional · API · UI · Mobile (Android and iOS)· Exploratory · BDD
-- Programming languages: ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=java,typescript,javascript,scala,python,csharp)
-- Certifications: Advanced Certificate in Test Automation (MoT-ACTA)
-- Tools: ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=git,github,mongodb,postgresql,mysql,redis,docker,nginx,docker,aws,azure,jenkins,githubactions,gitlab,linux,bash,graphql)
-- Prompting for Testers
+- **Programming & Scripting** - 
+![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=java,typescript,bash,javascript,scala,python,csharp)
+- **Tools & Delivery Practices** - ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=git,github,mongodb,postgresql,mysql,redis,docker,nginx,docker,aws,azure,jenkins,githubactions,gitlab,linux,bash,graphql)
+- **Certifications** - Advanced Certificate in Test Automation (MoT-ACTA)
+- **AI Approaches** - Prompting for Testers · Skills · MCP
 
 ---
