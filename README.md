@@ -1,8 +1,12 @@
 ## Hello there, I'm Marcela Oliveira (she/her) 👋
 
+<div align="center">
+
 I'm a curious and passionated Software QA Engineer.
 
 ![hello there](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm85cm4yMDVzOHQ3a2VydmJhbzI4NG03cmE3dTczYWF0NXVjcWg5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ornk57KwDXf81rjWM/giphy.gif)
+
+</div>
 
 [![Projects](https://img.shields.io/badge/1.%20Projects-yellow?style=flat)](#-projects)
 [![Core Skills](https://img.shields.io/badge/2.%20Core%20skills-blue?style=flat)](#-core-skills)
@@ -35,3 +39,5 @@ Here are some of feature projects that I have been work on:
 - **AI Approaches** - Prompting for Testers · Skills · MCP
 
 ---
+
+<p align="center">Made with ❤</p>
